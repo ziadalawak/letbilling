@@ -1,1 +1,11 @@
+{
+    "LETB-1111-2222-3333": {
+        "expire_date": "2026-01-01",
+        "updates_allowed": true
+    },
+    "LETB-9999-8888-7777": {
+        "expire_date": "2025-02-20",
+        "updates_allowed": false
+    }
+}
 
